@@ -13,21 +13,21 @@ tag: [Tips, Github io, Notion]
 
 **(x, y, w, h) - bbox값**
 
-![Object Detection Bbox 좌표-1.png](./images/Object Detection Bbox 좌표-1.png)
+![Object Detection Bbox 좌표-1.png](images/ObjectDetectionBbox-1.png)
 
 ## YOLO 형식
 
 **(x, y, w, h) - 비율값
 center coordinates**
 
-![Object Detection Bbox 좌표-2.png](images/Object Detection Bbox 좌표-2.png)
+![Object Detection Bbox 좌표-2.png](images/ObjectDetectionBbox-2.png)
 
 ## KITTI, VOC 형식
 
 **(x1, y1, x2, y2) - bbox값
 corner coordinates**
 
-![Object Detection Bbox 좌표-3.png](images/Object Detection Bbox 좌표-3.png)
+![Object Detection Bbox 좌표-3.png](images/ObjectDetectionBbox-3.png)
 
 ## COCO **Converting**
 
