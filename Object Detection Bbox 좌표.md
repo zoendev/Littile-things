@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: post
 title: "Object Detection Bbox 좌표"
 subtitle: "데이터셋 좌표 특징 및 변환"
 date: 2022-08-16 11:00
 background: 
 tag: [Tips, Github io, Notion]
----
+--- -->
 
 # Object Detection Bbox 좌표
 
