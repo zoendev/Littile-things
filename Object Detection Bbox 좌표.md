@@ -13,7 +13,7 @@ tag: [Tips, Github io, Notion]
 
 **(x, y, w, h) - bbox값**
 
-![Object Detection Bbox 좌표-1.png](images/Object Detection Bbox 좌표-1.png)
+![Object Detection Bbox 좌표-1.png](./images/Object Detection Bbox 좌표-1.png)
 
 ## YOLO 형식
 
